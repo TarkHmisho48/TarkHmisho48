@@ -48,8 +48,8 @@ I'm committed to continuous learning and growth. I’ve independently built up m
 
 - GitHub: [github.com/TarkHmisho48](https://github.com/TarkHmisho48)  
 - Email: tarekhmiso4@gmail.com
-- Kaggle: [Kaggle.com/tareqhmisho0(https://www.kaggle.com/tareqhmisho)
+- Kaggle: [Kaggle.com/tareqhmisho}(https://www.kaggle.com/tareqhmisho)
 
 ---
 
-> “Do Not Be A VibeCoder” — Sun Tzu
+> “Do Not Be A Vibe Coder” — Sun Tzu
