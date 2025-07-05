@@ -2,7 +2,7 @@
 
 ## Machine Learning & Deep Learning Practitioner | Python & R Developer
 
-I am a self-taught machine learning and deep learning enthusiast with a strong foundation in data analysis, model development, and end-to-end ML pipelines. My work is focused on building practical and high accuracy models from scratch.
+A machine learning and deep learning enthusiast with a strong foundation in data analysis, model development, and end-to-end ML pipelines. My work is focused on building practical and high accuracy models from scratch.
 
 ---
 
